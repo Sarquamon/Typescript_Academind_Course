@@ -4,7 +4,10 @@
   "description": "This is a small typescript course I took using Udemy and Academind",
   "main": "index.js",
   "scripts": {
-    "test": "npm run dev"
+    "start": "node ./dist/index.js",
+    "dev": "nodemon ./dist/index.js",
+    "watch": "tsc -w",
+    "test": "npm run tests"
   },
   "repository": {
     "type": "git",
