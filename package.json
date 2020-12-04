@@ -1,0 +1,26 @@
+{
+  "name": "typescriptcourse",
+  "version": "1.0.0",
+  "description": "This is a small typescript course I took using Udemy and Academind",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarquamon/Typescript_Academind_Course.git"
+  },
+  "keywords": [
+    "Course",
+    "TypeScript",
+    "TS",
+    "Academind",
+    "Udemy"
+  ],
+  "author": "Salomón Piña",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarquamon/Typescript_Academind_Course/issues"
+  },
+  "homepage": "https://github.com/Sarquamon/Typescript_Academind_Course#readme"
+}
