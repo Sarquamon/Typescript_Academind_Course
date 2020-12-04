@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/Sarquamon/Typescript_Academind_Course/issues"
   },
-  "homepage": "https://github.com/Sarquamon/Typescript_Academind_Course#readme"
+  "homepage": "https://github.com/Sarquamon/Typescript_Academind_Course#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
